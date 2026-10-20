@@ -1,0 +1,18 @@
+# Offsets for Mewgenics build 2026-01-14 (Steam).
+# Regenerate with: python -m tools.update_offsets --dump
+[gold]
+chain = [0x02A1F8C0, 0x18, 0x0]
+value = 0x0
+
+[stats]
+chain = [0x02A1F9A0, 0x10, 0x48]
+str = 0x0
+dex = 0x4
+int = 0x8
+con = 0xC
+
+[cats]
+chain = [0x02A1FB10, 0x0, 0x20]
+count = 0x0
+first = 0x8
+stride = 0x120
